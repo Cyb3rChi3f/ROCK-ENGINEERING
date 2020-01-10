@@ -10,3 +10,4 @@ ethtool -C enp0s31f6 rx-usecs 1000
 ethtool -G enp0s31f6 rx 4096
 done
 exit
+##
