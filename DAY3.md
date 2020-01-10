@@ -103,10 +103,3 @@
 
 #### vi ~/.bashrc
 #### alias running_services='systemctl list-units  --type=service  --state=running'
-
-# Header1 - `#`
-## Header2 - `##`
-### Header3 - `###`
-#### Header4 - `####`
-##### Header5 - `#####`
-###### Header6 - `######`
