@@ -12,6 +12,7 @@
   \<port protocol="tcp" port="9200"/>
   \<port protocol="tcp" port="9300"/>
   \<port protocol="tcp" port="5601"/>
+  \<port protocol="tcp" port="5800"/>
  \</service>
  ```
 
