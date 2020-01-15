@@ -106,7 +106,7 @@ curl -L -O http://192.168.2.11:8009/suricata-5.0/emerging.rules.tar.gz
 
 tar -xzf emerging.rules.tar.gz
 
-suricata-update
+suricata-update --local <path to downloaded rules>
 ```
 
 ### Change suricata folder ownership

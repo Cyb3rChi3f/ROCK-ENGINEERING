@@ -3,7 +3,7 @@ INSTALLATION
 
 To install this module, run the following commands:
 
-    yum install -y perl cpan
+    yum install -y perl cpan strace
 
     perl Makefile.PL
     make
